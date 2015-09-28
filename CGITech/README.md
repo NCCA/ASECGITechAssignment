@@ -1,0 +1,1 @@
+Use this folder to put the final CGI Techniques report and analysis of the code.
